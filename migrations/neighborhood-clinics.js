@@ -7,7 +7,8 @@ exports.up = function(knex, Promise) {
     table.string('hours');
     table.int('lat');
     table.int('long');
-    tabe.string('verified');
+    table.string('verified');
+    table.string('link');
   });
 }
 

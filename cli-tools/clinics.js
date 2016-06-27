@@ -12,15 +12,17 @@ var hours = process.argv[6];
 var lat = process.argv[7];
 var long = process.argv[8];
 var verified = process.argv[9];
+var link = process.argv[10];
 
 hours = hours.split(/(\r\n|\n|\r)/gm);
-hours.forEach(function(item) {
-  if (item === "\n") {
-    hours.splice(hours.indexOf(item), 1)
+hours.forEach(function(time) {
+  var temp = {};
+  if (time === "\n") {
+    hours.splice(hours.indexOf(time), 1);
   }
 });
 
-var input = [name, phone, address, description, hours, lat, long, verified];
+var input = [name, phone, address, description, hours, lat, long, verified, link];
 
 function Clinic(input) {
   this.name = input[0];
@@ -31,6 +33,7 @@ function Clinic(input) {
   this.lat = input[5];
   this.long = input[6];
   this.verified = input[7];
+  this.link = input[8];
 }
 
 fs.readFile(locationPath, 'utf8', function(err, data) {
