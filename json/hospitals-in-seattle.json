@@ -34,4 +34,52 @@
     "long": "-122.3241760",
     "verified": "Verified 10/2012",
     "link": "http://www.uwmedicine.org/locations/madison-harborview"
+}, {
+    "name": "Urban Rest Stop",
+    "phone": "206-332-0110",
+    "address": "1924 Ninth Ave; Seattle, WA 98101",
+    "description": "Besides the showers, laundry facilities, and hygiene supplies for which they are generally known, Urban Rest Stop also has a Health Room offering free health care. Services: emergency first aid, preventative health care, prenatal care, referrals to other community health services. On the fourth Monday of every month, foot care is also available. Health Room: Monday, Wednesday and Friday, 8:30 am to 11:30 pm.",
+    "lat": "47.6163220",
+    "long": "-122.3352080",
+    "verified": "Needs verification 10/2012",
+    "link": "https://urbanreststop.org/"
+}, {
+    "name": "Odessa Brown Children's Clinic (operated by Children's Hospital)",
+    "phone": "206-987-7200",
+    "address": "2101 E. Yesler Way Suite 100; Seattle, WA 98122",
+    "description": "Outpatient medical, dental, and Mental Health services for youth (newborn to 18 years). Medical coupons and insurance accepted. WIC provider. No child will be refused services.",
+    "lat": "47.6013040",
+    "long": "-122.3043910",
+    "verified": "Verified 10/2012",
+    "link": "http://www.seattlechildrens.org/contact/odessa-brown/"
+}, {
+    "name": "Cedar River Clinics",
+    "phone": {
+        "Main": "425-255-0471",
+        "TollFree": "1-800-572-4223"
+    },
+    "address": "4300 Talbot Road South, Suite 403; Renton, WA 98055",
+    "description": "Pregnancy testing, pregnancy options counseling, all methods of birth control (Take Charge provider), STD and HIV testing and counseling, first and second trimester abortion. Teens welcome. Medical interpreters arranged for limited English clients. Payment options for abortion include insurance, Alaska Medicaid, Oregon Health Plan, WA DSHS Medical Coupons. Phones are answered Monday to Friday 8:00 am to 5:00pm and Saturday 9:00 am to 2:00 pm. Also operates similar clinics in Tacoma and Yakima.",
+    "lat": "47.4405040",
+    "long": "-122.2122450",
+    "verified": "Verified 10/2012",
+    "link": "http://www.cedarriverclinics.org/"
+}, {
+    "name": "Country Doctor Free Teen Clinic",
+    "phone": "206-299-1600 ext. 7",
+    "address": "500 19th Ave. E.",
+    "description": "No appointments: drop-in medical services only. Serves homeless youth ages 12-23. No money, no insurance, no coupons necessary. No cost for medicine or lab work. STD, anonymous HIV testing, pregnancy tests, general physicals, and sick care. Licensed Acupuncturist, and Licensed Massage Therapist available Tuesdays only. Monday & Tuesday only, 6:00 p.m - 9:00 p.m. at Country Doctor Clinic, 500 19th Ave. E.",
+    "lat": "47.6233620",
+    "long": "-122.3070270",
+    "verified": "Verified 10/2012",
+    "link": "null"
+}, {
+    "name": "Seattle Indian Health Board",
+    "phone": "206-324-9360",
+    "address": "611 12th Ave. S., Seattle 98144 (The Leschi Center)",
+    "description": "Health services (including dental, in- and out-patient alcohol/drug counseling) targeting Native Americans but available to all. WIC provider. Sliding scale fee and medical coupons. Mon-Fri 8:30 a.m - 6:00 p.m.; Sat 9:00 a.m - 2:00 p.m. (limited services); Sun CLOSED",
+    "lat": "47.5971470",
+    "long": "-122.3179520",
+    "verified": "Verified 10/2012",
+    "link": "http://www.sihb.org/"
 }]

@@ -38,7 +38,7 @@ function Hospital(input) {
   this.link = input[7];
 }
 
-if (phone.length > 12) {
+if (phone.length > 12 && phone.indexOf('ext') < 0) {
   phone = phone.split(',');
   for (var i = 0; i < phone.length; i++) {
     phone[i] = phone[i].split(':');
@@ -62,9 +62,9 @@ fs.readFile(locationPath, 'utf8', function(err, data) {
     throw err;
   }
 
-  var clinic = new Hospital(input);
+  var hospital = new Hospital(input);
   data = JSON.parse(data);
-  data.push(clinic);
+  data.push(hospital);
   data = JSON.stringify(data);
 
   fs.writeFile(locationPath, data, function(writeErr) {
