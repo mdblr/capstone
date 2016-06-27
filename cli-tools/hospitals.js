@@ -20,6 +20,13 @@ function Directory(phoneArr) {
   })
 }
 
+function Addresses(addressArr) {
+  var x = this;
+  addressArr.forEach(function(add) {
+    x[add[0]] = add[1];
+  })
+}
+
 function Hospital(input) {
   this.name = input[0];
   this.phone = input[1];
@@ -33,12 +40,19 @@ function Hospital(input) {
 
 if (phone.length > 12) {
   phone = phone.split(',');
-
-  var n = phone.length;
   for (var i = 0; i < phone.length; i++) {
     phone[i] = phone[i].split(':');
   }
   phone = new Directory(phone);
+}
+
+if(address.indexOf(':') > 0) {
+  console.log(address);
+  address = address.split('/');
+  for (var i = 0; i < address.length; i++) {
+    address[i] = address[i].split(':');
+  }
+  address = new Addresses(address);
 }
 
 var input = [name, phone, address, description, lat, long, verified, link];

@@ -1,0 +1,37 @@
+[{
+    "name": "Children's Hospital",
+    "phone": "206-987-2000",
+    "address": "4800 Sand Point Way NE; Seattle, WA 98105",
+    "description": "Extensive services for children. Sliding scale fees and medical coupons. Referral from a primary care provider is required for non-urgent services. Urgent care (less expensive than an emergency room visit) does not require a referral or appointment. Available at Children’s Hospital clinics in Seattle, Bellevue, and Mill Creek. Urgent care hours only: Monday through Friday: 5 pm to 10:30 pm; Saturday, Sunday and holidays: 11 am to 8 pm.",
+    "lat": "47.6626380",
+    "long": "-122.2832650",
+    "verified": "Verified 10/2012",
+    "link": "http://www.seattlechildrens.org/"
+}, {
+    "name": "University of Washington Medical Center",
+    "phone": {
+        "EmergencyRoom": "206-598-4000",
+        "MedicalCenterInformation": "206-598-3300"
+    },
+    "address": "Follow URL for full list",
+    "description": "24-hour emergency care. Medical coupons accepted.",
+    "lat": "The University of Washington has a network of neighborhood clinics, but insurance is required.",
+    "long": "null",
+    "verified": "null",
+    "link": "Verified 10/2012"
+}, {
+    "name": "Harborview Madison Clinic",
+    "phone": {
+        "NewPatients": "206-744-5155",
+        "Other": "206-520-5000"
+    },
+    "address": {
+        "Physical": "Harborview Medical Center - 2nd Floor, West Clinic; 325 Ninth Avenue, Seattle",
+        "Mail": "Harborview Medical Center; Box 359930; 325 Ninth Ave. Seattle, WA 98104"
+    },
+    "description": "Medical care and social services for persons living with HIV/AIDS regardless of sexual orientation, race, or ability to pay. New patients: call 206-744-5155 to schedule first appointment. Routine appointments: 206-520-5000. Established patients may be seen on an urgent walk-in basis by calling the clinic and speaking with a triage nurse.",
+    "lat": "47.6038210",
+    "long": "-122.3241760",
+    "verified": "Verified 10/2012",
+    "link": "http://www.uwmedicine.org/locations/madison-harborview"
+}]
