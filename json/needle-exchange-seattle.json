@@ -1,0 +1,33 @@
+[{
+    "name": "People's Harm Reduction Alliance needle exchange delivery service",
+    "phone": "206-330-5777",
+    "address": "P.O. Box 85038; Seattle, WA 98145",
+    "description": "Uniquely, the People's Harm Reduction Alliance will deliver clean needles anywhere in King County. The service is provided seven days a week. Call 206-330-5777 to arrange delivery.",
+    "hours": "null",
+    "lat": "null",
+    "long": "null",
+    "verified": "Verified 09/2012",
+    "link": "http://www.peoplesharmreductionalliance.org/hours/"
+}, {
+    "name": "DOWNTOWN Robert Clewis Center",
+    "phone": {
+        "General": "206-263-2000"
+    },
+    "address": "2124 4th Ave (4th & Blanchard in Belltown)",
+    "description": "Walk-ins welcome! Abscess treatment and care, HIV/hepatitis testing and counseling, Hepatitis A and B vaccinations, Colds and upper respiratory infections, TB screening, Narcan available",
+    "hours": ["Mon-Fri:1:00-5:00 pm", "Sat:2:00-4:00 pm"],
+    "lat": "47.6145880",
+    "long": "-122.3421590",
+    "verified": "null",
+    "link": "http://www.kingcounty.gov/healthservices/health/communicable/hiv/resources/needle.aspx"
+}, {
+    "name": "U. District Needle Exchange",
+    "phone": "206-330-5777",
+    "address": "NE 43rd & Univ. Way NE, Seattle, WA 98145",
+    "description": "Hypodermic needles can be exchanged for free at the table in the alley behind the U. District Post office (1/2 block east of University Way NE — 'The Ave' — just south of 43rd Street), operated by the People's Harm Reduction Alliance. Also condoms, AIDS information.",
+    "hours": ["Mon:5 p.m.–7 p.m.", " Tue:5 p.m.–7 p.m. (All Female Staff)", " Thu: 5 p.m.–7 p.m.", " Fri: 1 p.m.–5 p.m.", " Sun: 1 p.m.–5 p.m."],
+    "lat": "47.6597970",
+    "long": "-122.3131830",
+    "verified": "Verified 09/2012",
+    "link": "http://www.kingcounty.gov/healthservices/health/communicable/hiv/resources/needle.aspx"
+}]
