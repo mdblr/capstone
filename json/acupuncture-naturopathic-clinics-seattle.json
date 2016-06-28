@@ -1,0 +1,46 @@
+[{
+    "name": "Bastyr Center for Natural Health",
+    "phone": "206-834-4100",
+    "address": "3670 Stone Way N., Seattle, WA 98103",
+    "description": "Holistic/naturopathic medical services, acupuncture and oriental medicine and counseling services. Limited reduced fees for students currently enrolled in a university or college, low income or age 65+.",
+    "lat": "47.6522500",
+    "long": "-122.3422010",
+    "verified": "Verified 10/2012",
+    "link": "http://www.bastyr.edu/health-services/bastyr-center-natural-health"
+}, {
+    "name": "CommuniChi Community Acupuncture Clinic ",
+    "phone": "206-860-5009",
+    "address": "2524 16th Avenue South #301, Seattle WA 98144 (top floor of El Centro de la Raza)",
+    "description": "Community-based acupuncture center.  one-time paperwork fee for first visit. Sliding scale  to  per treatment, no income verification required. Appointments can be scheduled through their website. Cash or checks only.",
+    "lat": "47.5803400",
+    "long": "-122.3113520",
+    "verified": "Verified 10/2012",
+    "link": "http://www.communichi.org/"
+}, {
+    "name": "The Pin Cushion",
+    "phone": "206-324-3650",
+    "address": "1716 E. Olive Way, Seattle WA 98102",
+    "description": "Community-based acupuncture center. Sliding payment scale (-). Schedule varies, call them or see their web site. Appointments can be scheduled through their website. Accepts cash, checks, credit cards.",
+    "lat": "47.6200490",
+    "long": "-122.3228510",
+    "verified": "Verified 10/2012",
+    "link": "http://www.thepincushionclinic.com/"
+}, {
+    "name": "North Seattle Community Acupuncture",
+    "phone": "206-524-6428",
+    "address": "11329 Pinehurst Way NE, Seattle WA 98125",
+    "description": "Community-based acupuncture center. Sliding payment scale (-). Call them or see their web site for schedule.",
+    "lat": "47.7111780",
+    "long": "-122.3173610",
+    "verified": "Verified 10/2012",
+    "link": "http://www.northseaforme.com/"
+}, {
+    "name": "Wu Hsing Tao School of Five Element Acupuncture",
+    "phone": "206-729-2598",
+    "address": "4000 NE 41st St, Building D West, Seattle WA 98105 (Talaris campus)",
+    "description": "Free Five-Element acupuncture clinic for people suffering from Post-Traumatic Stress Disorder. Call for hours.",
+    "lat": "47.6600150",
+    "long": "-122.2850680",
+    "verified": "Verified 10/2012",
+    "link": "http://www.wuhsing.org/"
+}]

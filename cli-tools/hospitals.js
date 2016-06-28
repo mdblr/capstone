@@ -1,7 +1,7 @@
 'use strict';
 var fs = require('fs');
 var path = require('path');
-var locationPath = path.join(__dirname,'..','json','hospitals-in-seattle.json');
+var locationPath = path.join(__dirname,'..','json','std-testing-seattle.json');
 var node = path.basename(process.argv[0]);
 var file = path.basename(process.argv[1]);
 var name = process.argv[2];
