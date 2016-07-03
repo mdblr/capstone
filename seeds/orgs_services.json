@@ -1,0 +1,1497 @@
+{
+    "data": [{
+        "lat": "47.661139",
+        "long": "-122.337736",
+        "orgs": [{
+            "name": "Forty Fifth Street Clinic(Neighborcare Health)",
+            "phone_1": "206-633-3350",
+            "phone_2": null,
+            "address": "1629 N. 45th St.; Seattle, WA 98103",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Neighborhood clinic for U. District, Wallingford, etc. Unlike other neighborhood clinics, they are not strict about geographic area. Outpatient services. Sliding scale fees and medical coupons. In addition, there is a drop-in clinic, including prenatal care, for homeless youth ages 14-23 only, Wednesday and Thursday evenings 6:00 pm - 9:00 pm. No appointment needed for homeless youth clinic only.",
+                "hours": "Mon: 7:30 am - 7:00 pm, Tue: 7:30 am - 7:00 pm, Wed: 8:45 am - 5:30 pm, Thu: 7:30 am - 5:30 pm, Fri: 7:30 am - 5:30 pm, Sat: 9:30 am - 1:45 pm, Sun: CLOSED",
+                "verified": "Verified 10/2012",
+                "link": "http://www.neighborcare.org/clinics/45th-street-medical-dental-clinic"
+            }]
+        }]
+    }, {
+        "lat": "47.601304",
+        "long": "-122.304391",
+        "orgs": [{
+            "name": "Carolyn Downs Family Medical Center (Country Doctor Clinics)",
+            "phone_1": "206-299-1900",
+            "phone_2": null,
+            "address": "2101 E. Yesler Way; Seattle, WA 98122",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Neighborhood clinic for Central Area, founded by the Seattle Black Panther Party and now a partner with the Country Doctor clinic. Outpatient services. Sliding scale fees and medical coupons. Additional services for Hispanic population.",
+                "hours": "Mon: 9:00 am – 12:30 pm; 1:30 pm – 5:00 pm, Tue: 9:00 am – 12:30 pm; 1:30 pm – 5:00 pm, Wed: 10:00 am – 12:30 pm; 1:30 pm – 5:00 pm; 5:30 pm – 8:30 pm, Thu: 9:00 am – 12:30 pm; 1:30 pm – 5:00 pm, Fri: 9:00 am – 12:30 pm; 1:30 pm – 5:00 pm, Sat: 9:00 am – 12:00 noon, Sun: CLOSED",
+                "verified": "Verified 10/2012",
+                "link": "http://www.countrydoctor.org/find-a-clinic/carolyn-downs-family-medical-center"
+            }]
+        }, {
+            "name": "Odessa Brown Children's Clinic (operated by Children's Hospital)",
+            "phone_1": "206-987-7200",
+            "phone_2": null,
+            "address": "2101 E. Yesler Way Suite 100; Seattle, WA 98122",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Outpatient medical, dental, and Mental Health services for youth (newborn to 18 years). Medical coupons and insurance accepted. WIC provider. No child will be refused services.",
+                "hours": null,
+                "verified": "Verified 10/2012",
+                "link": "http://www.seattlechildrens.org/contact/odessa-brown/"
+            }]
+        }]
+    }, {
+        "lat": "47.623362",
+        "long": "-122.307027",
+        "orgs": [{
+            "name": "Country Doctor Community Clinic",
+            "phone_1": "206-299-1600",
+            "phone_2": null,
+            "address": "500 19th Ave. E.; Seattle, WA 98112",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Neighborhood clinic for Capitol Hill. Outpatient services. WIC provider. Outreach services for diabetics. Onsite pharmacy. Sliding scale fees and medical coupons. By appointment only.",
+                "hours": "Mon: 9:00 am – 12:30 pm; 1:30 pm – 5:00 pm, Tue: 9:00 am – 12:30 pm; 1:30 pm – 5:00 pm; 5:30 pm – 8:30 pm, Wed: 9:00 am – 12:30 pm; 1:30 pm – 5:00 pm; 5:30 pm – 8:30 pm, Thu: 9:00 am – 12:30 pm; 1:30 pm – 5:00 pm; 5:30 pm – 8:30 pm, Fri: 9:00 am – 12:30 pm; 1:30 pm – 5:00 pm, Sat (at Carolyn Downs Clinic, 2101 E. Yesler Way): 9:00 am – 12:00 noon, Sun: CLOSED",
+                "verified": "Verified 10/2012",
+                "link": "http://countrydoctor.org/country-doctor-community-clinic/"
+            }]
+        }, {
+            "name": "Country Doctor Free Teen Clinic",
+            "phone_1": "206-299-1600 ext. 7",
+            "phone_2": null,
+            "address": "500 19th Ave. E.",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "No appointments: drop-in medical services only. Serves homeless youth ages 12-23. No money, no insurance, no coupons necessary. No cost for medicine or lab work. STD, anonymous HIV testing, pregnancy tests, general physicals, and sick care. Licensed Acupuncturist, and Licensed Massage Therapist available Tuesdays only. Monday & Tuesday only, 6:00 p.m - 9:00 p.m. at Country Doctor Clinic, 500 19th Ave. E.",
+                "hours": null,
+                "verified": "Verified 10/2012",
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.610764",
+        "long": "-122.342683",
+        "orgs": [{
+            "name": "Pike Market Medical Clinic(Neighborcare Health)",
+            "phone_1": "206-728-4143",
+            "phone_2": null,
+            "address": "1930 Post Alley; Seattle, WA 98101",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Downtown neighborhood clinic for anyone age 18+. Primary care for elderly, homeless, HIV+. Sliding scale fees and medical coupons. Low cost pharmacy.",
+                "hours": "Mon: 8:00 am – 5:00 pm; walk-in appointments available until 3:00 pm, Tue: 8:00 am – 5:00 pm; walk-in appointments available until 3:00 pm, Wed: 9:30 am – 5:00 pm; walk-in appointments available until 3:00 pm, Thu: 8:00 am – 5:00 pm; walk-in appointments available until 3:00 pm, Fri: 8:00 am – 4:00 pm; walk-in appointments available until 2:00 pm, Sat: CLOSED, Sun: CLOSED",
+                "verified": "Verified 10/2012",
+                "link": "https://www.neighborcare.org/clinics/neighborcare-health-pike-place-market"
+            }]
+        }]
+    }, {
+        "lat": "47.600582",
+        "long": "-122.329894",
+        "orgs": [{
+            "name": "Pioneer Square Clinic (UW Medicine)",
+            "phone_1": "206-744-3000",
+            "phone_2": null,
+            "address": "206 Third Ave S; Seattle, WA 98104",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Neighborhood clinic for age 18+ for Downtown. Primary care for elderly, homeless, low income. Sliding scale fees and medical coupons. A University of Washington Medical clinic.",
+                "hours": "Mon: 7:00 am – 5:00 pm, Tue: 7:00 am – 5:00 pm, Wed: 8:00 am – 5:00 pm, Thu: 7:00 am – 5:00 pm, Fri: 7:00 am – 5:00 pm, Sat: CLOSED, Sun: CLOSED",
+                "verified": "Verified 10/2012",
+                "link": "http://www.uwmedicine.org/locations/pioneer-square"
+            }]
+        }]
+    }, {
+        "lat": "47.662638",
+        "long": "-122.283265",
+        "orgs": [{
+            "name": "Children's Hospital",
+            "phone_1": "206-987-2000",
+            "phone_2": null,
+            "address": "4800 Sand Point Way NE; Seattle, WA 98105",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Extensive services for children. Sliding scale fees and medical coupons. Referral from a primary care provider is required for non-urgent services. Urgent care (less expensive than an emergency room visit) does not require a referral or appointment. Available at Children’s Hospital clinics in Seattle, Bellevue, and Mill Creek. Urgent care hours only: Monday through Friday: 5 pm to 10:30 pm; Saturday, Sunday and holidays: 11 am to 8 pm.",
+                "hours": null,
+                "verified": "Verified 10/2012",
+                "link": "http://www.seattlechildrens.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.603821",
+        "long": "-122.324176",
+        "orgs": [{
+            "name": "Harborview Madison Clinic",
+            "phone_1": "New Patients: 206-744-5155",
+            "phone_2": "Other: 206-520-5000",
+            "address": "Harborview Medical Center - 2nd Floor, West Clinic; 325 Ninth Avenue, Seattle",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Medical care and social services for persons living with HIV/AIDS regardless of sexual orientation, race, or ability to pay. New patients: call 206-744-5155 to schedule first appointment. Routine appointments: 206-520-5000. Established patients may be seen on an urgent walk-in basis by calling the clinic and speaking with a triage nurse.",
+                "hours": null,
+                "verified": "Verified 10/2012",
+                "link": "http://www.uwmedicine.org/locations/madison-harborview"
+            }]
+        }]
+    }, {
+        "lat": "47.616322",
+        "long": "-122.335208",
+        "orgs": [{
+            "name": "Urban Rest Stop",
+            "phone_1": "206-332-0110",
+            "phone_2": null,
+            "address": "1924 Ninth Ave; Seattle, WA 98101",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Besides the showers, laundry facilities, and hygiene supplies for which they are generally known, Urban Rest Stop also has a Health Room offering free health care. Services: emergency first aid, preventative health care, prenatal care, referrals to other community health services. On the fourth Monday of every month, foot care is also available. Health Room: Monday, Wednesday and Friday, 8:30 am to 11:30 pm.",
+                "hours": null,
+                "verified": "Needs verification 10/2012",
+                "link": "https://urbanreststop.org/"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Free showers and laundry facilities for homeless and low income. Will lend coveralls for patrons who have nothing to wear while doing laundry.\n\nFree hygiene supplies such as soap, toothbrushes, diapers, feminine hygiene supplies, etc.",
+                "hours": "Mon-Thu: 5:30 am - 9:30 pm, Fri: 5:30 am - 11 am, 2 pm - 9:30 pm, Sat-Sun: June 1 - Sept 30: 8 am - 5 pm, Sat-Sun: Oct 1 - May 31: 8 am - 3 pm. Closed holidays.",
+                "verified": "Verified 11/2015",
+                "link": "https://urbanreststop.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.440504",
+        "long": "-122.212245",
+        "orgs": [{
+            "name": "Cedar River Clinics",
+            "phone_1": "Main: 425-255-0471",
+            "phone_2": "Toll Free: 1-800-572-4223",
+            "address": "4300 Talbot Road South, Suite 403; Renton, WA 98055",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Pregnancy testing, pregnancy options counseling, all methods of birth control (Take Charge provider), STD and HIV testing and counseling, first and second trimester abortion. Teens welcome. Medical interpreters arranged for limited English clients. Payment options for abortion include insurance, Alaska Medicaid, Oregon Health Plan, WA DSHS Medical Coupons. Phones are answered Monday to Friday 8:00 am to 5:00pm and Saturday 9:00 am to 2:00 pm. Also operates similar clinics in Tacoma and Yakima.",
+                "hours": null,
+                "verified": "Verified 10/2012",
+                "link": "http://www.cedarriverclinics.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.597147",
+        "long": "-122.317952",
+        "orgs": [{
+            "name": "Seattle Indian Health Board",
+            "phone_1": "206-324-9360",
+            "phone_2": null,
+            "address": "611 12th Avenue S., Suite 200; Seattle, WA 98144 (The Leschi Center)",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Physical",
+                "description": "Health services (including dental, in- and out-patient alcohol/drug counseling) targeting Native Americans but available to all. WIC provider. Sliding scale fee and medical coupons. Mon-Fri 8:30 a.m - 6:00 p.m.; Sat 9:00 a.m - 2:00 p.m. (limited services); Sun CLOSED",
+                "hours": null,
+                "verified": "Verified 10/2012",
+                "link": "http://www.sihb.org/"
+            }, {
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Mental",
+                "description": "ndividual, couples and family counseling, crisis intervention, medications, and medication management and evaluation. Medicaid and Medicare, public and private insurance accepted, sliding scale. ",
+                "hours": null,
+                "verified": "Verified 03/2013",
+                "link": "http://www.sihb.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.614588",
+        "long": "-122.342159",
+        "orgs": [{
+            "name": "DOWNTOWN Robert Clewis Center",
+            "phone_1": "206-263-2000",
+            "phone_2": null,
+            "address": "2124 4th Ave (4th & Blanchard in Belltown)",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Harm Reduction",
+                "description": "Walk-ins welcome! Abscess treatment and care, HIV/hepatitis testing and counseling, Hepatitis A and B vaccinations, Colds and upper respiratory infections, TB screening, Narcan available",
+                "hours": "Mon-Fri:1:00-5:00 pm, Sat:2:00-4:00 pm",
+                "verified": "Verified 6/16",
+                "link": "http://www.kingcounty.gov/healthservices/health/communicable/hiv/resources/needle.aspx"
+            }]
+        }]
+    }, {
+        "lat": "47.659797",
+        "long": "-122.313183",
+        "orgs": [{
+            "name": "U. District Needle Exchange",
+            "phone_1": "206-330-5777",
+            "phone_2": null,
+            "address": "NE 43rd & Univ. Way NE, Seattle, WA 98145",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Harm Reduction",
+                "description": "Hypodermic needles can be exchanged for free at the table in the alley behind the U. District Post office (1/2 block east of University Way NE — 'The Ave' — just south of 43rd Street), operated by the People's Harm Reduction Alliance. Also condoms, AIDS information.",
+                "hours": "Mon: 5pm – 7pm, Tue: 5pm – 7pm (All Female Staff), Thu: 5pm – 7pm, Fri: 1pm – 5pm, Sun: 1pm – 5pm",
+                "verified": "Verified 6/16",
+                "link": "http://www.kingcounty.gov/healthservices/health/communicable/hiv/resources/needle.aspx"
+            }]
+        }]
+    }, {
+        "lat": "47.612763",
+        "long": "-122.318398",
+        "orgs": [{
+            "name": "CAPITOL HILL Robert Clewis Center 2",
+            "phone_1": "206-263-2000",
+            "phone_2": null,
+            "address": "1161 11th Ave(between Madison & Union)",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Harm Reduction",
+                "description": "",
+                "hours": "Mon-Sat: 5:30pm - 8:30pm",
+                "verified": "Verified 6/16",
+                "link": "http://www.kingcounty.gov/healthservices/health/communicable/hiv/resources/needle.aspx"
+            }]
+        }]
+    }, {
+        "lat": "47.608603",
+        "long": "-122.325257",
+        "orgs": [{
+            "name": "ABLE Care Clinic",
+            "phone_1": "206-458-2556",
+            "phone_2": null,
+            "address": "Cabrini Tower, 901 Boren Ave, Suite 701; Seattle, WA 98104",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Mental",
+                "description": "Low cost counseling services provided by supervised student interns. Available for individuals who are underinsured, uninsured or do not have the means to afford therapy. Counseling is available for adults, couples, teens, and families who are experiencing anxiety, depression, grief/loss, life transitions and more. By appointment only.",
+                "hours": null,
+                "verified": "Verified 10/2014",
+                "link": "http://www.ableseattle.com/"
+            }]
+        }]
+    }, {
+        "lat": "47.589385",
+        "long": "-122.304477",
+        "orgs": [{
+            "name": "Atlantic Street Center",
+            "phone_1": "206-329-2050",
+            "phone_2": null,
+            "address": "2103 S. Atlantic St.; Seattle 98144",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Mental",
+                "description": "Programs for low-income children, youth and families of color in Seattle’s central and southeast neighborhoods. Therapists provide mental health counseling for youth and families dealing with difficult issues: depression, divorce, trauma recovery, unstable life situations, domestic violence, loss and abuse. Atlantic Street Center services are free to participants. ",
+                "hours": null,
+                "verified": "Verified 03/2013",
+                "link": "http://www.atlanticstreet.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.615431",
+        "long": "-122.328215",
+        "orgs": [{
+            "name": "Seattle Counseling Service",
+            "phone_1": "206-323-1768",
+            "phone_2": null,
+            "address": "1216 Pine St., Suite 300; Seattle, WA 98101",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Mental",
+                "description": "Mental health services for the LGBT community, adults and youth. Sliding scale, medical coupons accepted. After hours, call the Crisis Line, 1-866-4CRISIS (1-866-427-4747).",
+                "hours": null,
+                "verified": "Verified 03/2013",
+                "link": "http://www.seattlecounseling.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.661859",
+        "long": "-122.311639",
+        "orgs": [{
+            "name": "University District Youth Center",
+            "phone_1": "206-526-2992 ",
+            "phone_2": null,
+            "address": "4516 15th Avenue NE; Seattle, WA 98105",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Mental",
+                "description": "On-site individual mental health, drug, and alcohol counseling for at-risk, runaway, homeless and street-involved youth, 13-22. All services free by appointment. ",
+                "hours": null,
+                "verified": "Verified 03/2013",
+                "link": "http://www.ccsww.org/site/PageServer?pagename=homeless_udyc"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Clothing",
+                "description": "Open to youth ages 13-22 only.",
+                "hours": null,
+                "verified": "Verified 1/07",
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.711101",
+        "long": "-122.317398",
+        "orgs": [{
+            "name": "Northwest Family Life ",
+            "phone_1": "206-363-9601",
+            "phone_2": null,
+            "address": "11320 Roosevelt Way NE; Seattle, WA 98125",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Mental",
+                "description": "Counseling for individuals, couples, groups. Sliding scale available. This is a Christian faith-based organization with a particular emphasis on domestic violence.",
+                "hours": null,
+                "verified": "Verified 03/2013",
+                "link": "http://www.northwestfamilylife.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.570878",
+        "long": "-122.297415",
+        "orgs": [{
+            "name": "ACRS",
+            "phone_1": "206-695-7600",
+            "phone_2": null,
+            "address": "3639 Martin Luther King Jr. Way S; Seattle, WA 98144",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Mental",
+                "description": "Formerly Asian Counseling and Referral Service. Variety of mental health services including case management and psychiatric evaluation. Medicaid, Basic Health, and selected private insurances, including Group Health, Molina and Regence Blue Shields. Sliding scale, free to those who meet income guidelines. Also has an office in Bellevue.",
+                "hours": null,
+                "verified": "Verified 03/2013",
+                "link": "http://www.acrs.org/index.htm"
+            }]
+        }]
+    }, {
+        "lat": "47.654427",
+        "long": "-122.311603",
+        "orgs": [{
+            "name": "University of Washington Center for Anxiety and Traumatic Stress",
+            "phone_1": "206-685-3617 ",
+            "phone_2": null,
+            "address": "Guthrie Annex II, 2nd Floor; University of Washington",
+            "services": [{
+                "health": true,
+                "human": false,
+                "tech": false,
+                "material": false,
+                "subcategory": "Mental",
+                "description": "This program has a federal grant through 2015 to conduct research and treatment for post-traumatic stress disorder (PTSD). Because they receive funding for their research, they are able to offer no-cost services to eligible individuals who are experiencing trauma-related problems. Individuals who are 18 years or older may be eligible for this research study that offers 10 weeks of counseling or counseling plus medication. For more information, call 206-685-3617 or visit website http://www.ptsdoptions.com. ",
+                "hours": null,
+                "verified": "Verified 03/2013",
+                "link": "http://faculty.washington.edu/zoellner/"
+            }]
+        }]
+    }, {
+        "lat": "47.6007037",
+        "long": "-122.3352928",
+        "orgs": [{
+            "name": "Compass Housing Alliance ",
+            "phone_1": "206-357-3100",
+            "phone_2": "Extensions: 1-Housing; 2-Banking; 3-Hygiene; 4-Donation; 5-Other",
+            "address": "77 S. Washington, Seattle, WA 98104",
+            "services": [{
+                "health": false,
+                "human": true,
+                "tech": false,
+                "material": false,
+                "subcategory": "Homeless",
+                "description": "Mail, banking, message phone for homeless, \"protective payee\", hygiene center (shower and toilets). Transitional housing and some permanent low income housing units for adults and families. Showers and laundry offered from 7 a.m. - 2:30 p.m. Call for other services: schedules vary. ",
+                "hours": null,
+                "verified": "Verified 02/2014",
+                "link": "http://www.compasshousingalliance.org/"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Showers and laundry. Please call for schedule. ",
+                "hours": null,
+                "verified": "Verified 9/09",
+                "link": "http://www.compasshousingalliance.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.5940196",
+        "long": "-122.3106418",
+        "orgs": [{
+            "name": "PETER’S PLACE",
+            "phone_1": "206-474-1630",
+            "phone_2": null,
+            "address": "901 Rainier Ave S, Seattle, WA 98144",
+            "services": [{
+                "health": false,
+                "human": true,
+                "tech": false,
+                "material": false,
+                "subcategory": "Homeless",
+                "description": "People can seek refuge, meals and basic services as well as connect with case management, entitlements and other benefits, mental health counseling and nursing services. ",
+                "hours": null,
+                "verified": null,
+                "link": "http://www.compasshousingalliance.org/what-we-do-top/day-services/peters-place/"
+            }]
+        }]
+    }, {
+        "lat": "47.6023952",
+        "long": "-122.331355",
+        "orgs": [{
+            "name": "Downtown Emergency Service Center (DESC)",
+            "phone_1": "206-464-1570",
+            "phone_2": null,
+            "address": "515 Third Avenue, Seattle, WA 98104",
+            "services": [{
+                "health": false,
+                "human": true,
+                "tech": false,
+                "material": false,
+                "subcategory": "Homeless",
+                "description": "Women age 18+ (no minors) and men 60+ are welcome. Men 18-59 only if severely disabled, mentally ill, physically or developmentally disabled, medically/physically compromised, chemically dependent (and working with a counselor). Free mental health screening/referrals; free mail service for night shelter residents; non-12-step support and shelter referrals for chemically dependent homeless. Open for day services 7:30 a.m. - 5 p.m. Night shelter for priority clients.",
+                "hours": null,
+                "verified": "Verified 02/2014",
+                "link": "http://desc.org/"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "Rather than providing shelter on a first-come-first-served model, DESC uses a Vulnerability Assessment and tries to serve those evaluated as most vulnerable.\nInformation and referral drop-in hours Monday-Friday 9-11 a.m. and 2-4 p.m.\n\nThe DESC Emergency Shelter serves women age 18+ and men age 60+. Men 18-59 are also served if severely disabled, mentally ill, physically or developmentally disabled, medically/physically compromised, or chemically dependent (and working with a counselor). DESC also offers a daytime program (7:00 a.m. to 7:00 p.m) and manages eleven supportive housing projects. ",
+                "hours": null,
+                "verified": "Verified 03/2014",
+                "link": "http://www.desc.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.6013805",
+        "long": "-122.3311724",
+        "orgs": [{
+            "name": "Lazarus Day Center",
+            "phone_1": "206-623-7219",
+            "phone_2": null,
+            "address": "416 Second Ave Ext S., Seattle, WA 98104",
+            "services": [{
+                "health": false,
+                "human": true,
+                "tech": false,
+                "material": false,
+                "subcategory": "Homeless",
+                "description": "Provides safe daytime shelter and services for homeless and low-income men and women aged 50 and older, including meals, snacks, haircuts, clothing, laundry facilities and showers, library, drug and alcohol counseling. 1 p.m. – 6:30 p.m. 7 days a week. Transportation provided to St. Martin De Porres Shelter upon approval. ",
+                "hours": null,
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6012178",
+        "long": "-122.331164",
+        "orgs": [{
+            "name": "Chief Seattle Club",
+            "phone_1": "206-292-6214",
+            "phone_2": null,
+            "address": "410 Second Ave. Ext S., Seattle",
+            "services": [{
+                "health": false,
+                "human": true,
+                "tech": false,
+                "material": false,
+                "subcategory": "Homeless",
+                "description": "\"A sacred space for homeless and at-risk American Indian and Alaska Native people.\" Must be Alaska Native or American Indian with Tribal ID.Member services Monday-Friday 7 a.m. - 2 p.m. Nutritious breakfast; showers, laundry, clothing, access to health care, drug, and alcohol treatment.\nAlso financial assistance, housing, medical, clothing, and utilities: call for details. ",
+                "hours": null,
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.613027",
+        "long": "-122.3415698",
+        "orgs": [{
+            "name": "YWCA",
+            "phone_1": "206-436-8600 extension 0",
+            "phone_2": null,
+            "address": "2024 Third Ave; Seattle, WA 98121",
+            "services": [{
+                "health": false,
+                "human": true,
+                "tech": false,
+                "material": false,
+                "subcategory": "Homeless",
+                "description": "WorkSource Opportunity Place : Job listings, other job search help, including access to phone, computer, job-hunting workshops & classes. Monday-Friday 8:30 a.m. - 5 p.m.",
+                "hours": null,
+                "verified": "Verified 02/2014",
+                "link": "http://www.ywcaworks.org/page.aspx?pid=438"
+            }]
+        }]
+    }, {
+        "lat": "47.600506",
+        "long": "-122.3332236",
+        "orgs": [{
+            "name": "Food Not Bombs",
+            "phone_1": "206-729-0384 (please leave a message)",
+            "phone_2": null,
+            "address": "Occidental Park",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "Vegetarian dinner served every Sunday approximately 4 pm in Occidental Park (in the Pioneer Square neighborhood). Usually also has free produce and bread.",
+                "hours": "Sun: Approximately 4pm",
+                "verified": "Verified 01/2016",
+                "link": "http://www.scn.org/activism/foodnotbombs/"
+            }]
+        }]
+    }, {
+        "lat": "47.6140571",
+        "long": "-122.350239",
+        "orgs": [{
+            "name": "Millionair Club Charity",
+            "phone_1": "206-728-JOBS",
+            "phone_2": "206-728-5627",
+            "address": "2515 Western Ave.; Seattle, WA 98121",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "",
+                "hours": "Mon-Sat: 6:15 am - 7 am, Mon-Fri: 12 noon - 1:30 pm, Closed Sundays.",
+                "verified": "Verified 01/2016",
+                "link": "http://www.millionairclub.org/"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Free showers, laundry (soap, towels, detergent provided). NOTE: Showers are only for people who are signed up for their day labor program. ",
+                "hours": "Mon-Fri: 6:30 am - 2:30 pm ",
+                "verified": "Verified 1/07",
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6664313",
+        "long": "-122.3190412",
+        "orgs": [{
+            "name": "Blessed Sacrament Church",
+            "phone_1": "206-547-3020",
+            "phone_2": null,
+            "address": "5050 Eighth NE, Seattle 98105",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "Food baskets with ID Friday 10:30 am - 12 noon. For food baskets, must have ID demonstrating residency in area bounded by the Ship Canal/ Lake Union, First Ave NE, 20th Ave NE, and NE 70th Street. Bus routes 66-67. ",
+                "hours": "Meal Sunday, 12 noon - 2 pm at Parish Hall on 8th Avenue side of building, open to all.",
+                "verified": "Verified 01/2016",
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.620641",
+        "long": "-122.3320707",
+        "orgs": [{
+            "name": "Immanuel Lutheran",
+            "phone_1": "206-622-1930 ",
+            "phone_2": null,
+            "address": "1215 Thomas St., Seattle 98109",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "Community meal last Sunday of each month at 12 noon. ",
+                "hours": null,
+                "verified": "Verified 01/2016",
+                "link": "http://www.immanuelseattle.org/"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Showers and laundry service for men and women.",
+                "hours": "Showers Mon-Fri: 8 am - 11:30 am, Laundry Mon-Fri: 8 am - 9:30 am ",
+                "verified": "Verified 12/09",
+                "link": "http://www.immanuelseattle.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.5971472",
+        "long": "122.3179521",
+        "orgs": [{
+            "name": "Seattle Indian Center",
+            "phone_1": "206-329-8700",
+            "phone_2": null,
+            "address": "611 12th Ave. S., Suite 300, Seattle 98144",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "Open to people of all ethnicities.",
+                "hours": "Breakfast Mon-Fri: 9:30 am - 11:00 am, Lunch Mon-Fri: 12 noon - 1:15 pm, Food Bank Tuesday & Thursday 1:30 pm – 3:30 pm",
+                "verified": "Verified 01/2016",
+                "link": "http://www.seattleindiancenter.us/"
+            }]
+        }]
+    }, {
+        "lat": "47.6688384",
+        "long": "-122.354731",
+        "orgs": [{
+            "name": "Phinney Neighborhood Soup Kitchen",
+            "phone_1": "206-784-1040",
+            "phone_2": null,
+            "address": "St. John's Lutheran Church, 5515 Phinney Ave. N., Seattle 98103",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "Monday dinner. Doors open 4 pm, dinner 5 pm - 6pm.\nFree meals at St. John's Lutheran Church (across from Woodland Park Zoo, on #5 bus route). Open to all, all are welcome.",
+                "hours": "Tuesday dinner. Doors open 4 pm, dinner 5 pm - 6pm, Wednesday lunch. Doors open 11 am, lunch 12 noon - 1pm.",
+                "verified": "Verified 01/2016",
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6168205",
+        "long": "-122.3177578",
+        "orgs": [{
+            "name": "Community Lunch on Capitol Hill",
+            "phone_1": "206-484-7427 ",
+            "phone_2": null,
+            "address": "1710 11th Ave Seattle, WA 98122",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "Open to all, all are welcome.",
+                "hours": "Lunch Tuesday & Friday, 12 noon – 1 pm",
+                "verified": "Verified 01/2016",
+                "link": "http://www.communitylunch.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.62336",
+        "long": "-122.320377",
+        "orgs": [{
+            "name": "Community Lunch on Capitol Hill",
+            "phone_1": "206-484-7428",
+            "phone_2": null,
+            "address": "500 Broadway East (entrance is on Republican); Seattle, WA 98102",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "Open to all, all are welcome.",
+                "hours": "Dinner Wednesday and Thursday 5 pm – 6 pm",
+                "verified": "Verified 01/2016",
+                "link": "http://www.communitylunch.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.6592443",
+        "long": "-122.3123559",
+        "orgs": [{
+            "name": "ROOTS Young Adult Shelter",
+            "phone_1": "206-632-5163 (voice mail)",
+            "phone_2": null,
+            "address": "1415 NE 43rd Street; Seattle, WA 98105",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "\"Friday Feast\". Go downstairs at University Methodist Temple Church, enter via the alley behind the post office through the blue doors at the south end of the church. Unlike other ROOTS activities and services, this is open to all ages. ",
+                "hours": "Fridays 5:30 pm - 7:00 pm",
+                "verified": "Verified 01/2016",
+                "link": "http://www.rootsinfo.org/"
+            }]
+        }, {
+            "name": "Urban Rest Stop",
+            "phone_1": "206-327-0744",
+            "phone_2": null,
+            "address": "1415 NE 43rd St (rear), Seattle, WA 98145",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Free showers and laundry facilities for homeless and low income. Will lend coveralls for patrons who have nothing to wear while doing laundry.\n\nFree hygiene supplies such as soap, toothbrushes, diapers, feminine hygiene supplies, etc.\n\nDirections: the entrance is on the alley that runs from NE 42nd Street to NE 43rd Street between 15th Ave NE and University Way NE. It is in the back of University Methodist Temple. If you come north from 42nd Street, go past the Allegro coffeeshop, and look for the blue handrails on the right.",
+                "hours": "Tue-Thu: 9:00 am - 12 noon, 1:00 pm - 6:00 pm, Fri: 9:00 am - 12 noon, 1:00 pm - 5:30 pm. Closed Mondays, weekends, holidays.",
+                "verified": "Verified 11/2015",
+                "link": "https://urbanreststop.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.6005433",
+        "long": "-122.3305826",
+        "orgs": [{
+            "name": "Union Gospel Mission",
+            "phone_1": "206-622-5177",
+            "phone_2": null,
+            "address": "318 Second Ave. Ext. S; Seattle, WA 98104",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "",
+                "hours": "Breakfast Everyday 7:30 am 9:00 am, Lunch Monday-Saturday 11:30 am - 12:30 pm, Dinner Everyday 5:30-6:30 pm",
+                "verified": "Verified 01/2016",
+                "link": "http://www.ugm.org/"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Clothing",
+                "description": "Men only clothing service.",
+                "hours": "Apply for voucher Mon-Sat before 11:00am, Clothing pick-up between 1:30-2:30 pm",
+                "verified": "Verified 1/07",
+                "link": "http://www.ugm.org/"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "Shelter for men, no fee, following chapel at 7 p.m. 110 mats available. ",
+                "hours": null,
+                "verified": "Verified 03/2014",
+                "link": "http://www.ugm.org/"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Free showers (men only)",
+                "hours": "Mon-Fri, except last Thursday of each month. Hygiene supplies availlable betwee 2 - 5 pm",
+                "verified": "Verified 01/10",
+                "link": "http://www.ugm.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.5999035",
+        "long": "-122.3345959",
+        "orgs": [{
+            "name": "Bread of Life Mission",
+            "phone_1": "206-682-3579",
+            "phone_2": null,
+            "address": "97 South Main Street; Seattle, WA 98104",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Food",
+                "description": "\"All welcome\" For over night stays: $5 fee + valid ID required, men age 18+ only\nDoors close at 8:15 pm.",
+                "hours": "Coffee and assorted snacks Monday-Friday, 9:30 am - 3 pm, Lunch Monday-Friday, 12:15 pm - 1 pm, Chapel 6:30-7:10 pm (Tue.-Sat.), Dinner (Mon. 6:30 pm; Tue-Sat 7:15 pm), Overnight bed sign-up from 5:30-6:15 pm and 8:00-8:15 pm",
+                "verified": null,
+                "link": "http://www.breadoflifemission.org/"
+            }, {
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "In Pioneer Square neighborhood. Day Shelter every Monday through Friday from 10 a.m. to 4 p.m (men, women, and children). Mail Services, clothing, lockers (minimal fee), media center (computers with internet access and television), Metro bus passes, hot lunch, social services and referrals.\n\nNight shelter (men only). ",
+                "hours": null,
+                "verified": "Verified 03/2014",
+                "link": "http://www.breadoflifemission.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.615495",
+        "long": "-122.307145",
+        "orgs": [{
+            "name": "The Helping House",
+            "phone_1": "206-322-6500",
+            "phone_2": null,
+            "address": "1604 19th Ave., Seattle, WA 98122",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Clothing",
+                "description": "Free new and clean gently used clothing for women, men, teens, children and infants. All occasions - dress, school, casual and professional wear for work or office. Shoes, coats, hats and household items also available.  ",
+                "hours": "1st and 3rd Saturdays of each month from 11:00 a.m. to 1:00 p.m.",
+                "verified": "Verified 09/2014",
+                "link": "http://mountzionseattle.org/index.php?l=147&id=28"
+            }]
+        }]
+    }, {
+        "lat": "47.6271776",
+        "long": "-122.3686664",
+        "orgs": [{
+            "name": "CityTeam Ministries ",
+            "phone_1": "206-352-1300",
+            "phone_2": null,
+            "address": "904 Elliott Ave. W, Seattle 98119",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Clothing",
+                "description": "Available to women & children by appointment only. Available to men in the evenings during shelter hours.  ",
+                "hours": null,
+                "verified": "Verified 1/07",
+                "link": "http://www.cityteam.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.6033542",
+        "long": "-122.3171049",
+        "orgs": [{
+            "name": "St. Francis House",
+            "phone_1": "206-621-0945",
+            "phone_2": null,
+            "address": "169 12th Ave., Seattle 98122",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Clothing",
+                "description": "Furniture, household goods, and clothing. ID required.",
+                "hours": "Mon-Fri: 10 am - 2:30 pm",
+                "verified": "Verified 1/07",
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.5998691",
+        "long": "-122.3137792",
+        "orgs": [{
+            "name": "Operation Nightwatch Emergency Shelter",
+            "phone_1": "206-329-2099 (after 8:00 pm) ",
+            "phone_2": "206-323-4359 daytime M-F",
+            "address": "302 14th Ave S, Seattle, WA 98144",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "Nighttime drop-in center at 302 14th Avenue South (between Yesler & Jackson on the corner of 14th and Main). Open nights, not days. Screening and referrals done every night starting 9pm until midnight. Please do not arrive early. Age 18 and over only.  Operation Nightwatch no longer is able to assist families with children.\n\nMen who do not already have a valid ticket from Operation Nightwatch must have a referral ticket from the Downtown Emergency Service Center, 507 3rd Ave Seattle, or Bread of Life Mission, 97 South Main Street. Please check with these agencies for distribution times and availability.\n\nReferrals are not required for women. ",
+                "hours": null,
+                "verified": "Verified 03/2014",
+                "link": "http://www.seattlenightwatch.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.5889358",
+        "long": "-122.3389843",
+        "orgs": [{
+            "name": "Saint Martin dePorres Shelter",
+            "phone_1": "206-323-6341",
+            "phone_2": null,
+            "address": "1561 Alaskan Way S, Seattle 98134",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "Operates at its full capacity of 212 men a night. The shelter is open 365 nights a year from 6:30 p.m. to 7:30 a.m. and during the day for medical convalescent care. During the winter months, they have arrangements with eight local churches to provide space for an additional 34 men a night. To access services, visit the Lazarus Day Center at 416 2nd Avenue before 7:00 p.m. daily. ",
+                "hours": "Everday, arrive before 7pm",
+                "verified": "Verified 03/2014",
+                "link": "http://www.ccsww.org/site/PageServer?pagename=homeless_stmartin"
+            }]
+        }]
+    }, {
+        "lat": "47.5953335",
+        "long": "-122.3254694",
+        "orgs": [{
+            "name": "William Booth Center",
+            "phone_1": "206-621-0145",
+            "phone_2": null,
+            "address": "811 Maynard Ave. S., Seattle 98134",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "Men's facility. Breathalizer, drug test required. Several options:\n\nLimited number of emergency beds.\nDormitory-style transitional shelter, $70/week, bunk bed plus locker (6 month limit, meals not provided).\nTransitional housing at 30% of gross income. Case manager available.",
+                "hours": null,
+                "verified": "Verified 03/2014",
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.5971472",
+        "long": "-122.3179521",
+        "orgs": [{
+            "name": "Seattle Indian Center",
+            "phone_1": "206-329-8700",
+            "phone_2": null,
+            "address": "611 12th Ave. S., Suite 300, Seattle 98144",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "Sea’ Sha Inn (men’s hostel), 7 nights a week, 7 p.m. to 7 a.m.; cots & blankets, shower, kitchen, TV; free local calls, continental breakfast.",
+                "hours": "Everyday, arrive before 7pm",
+                "verified": "Verified 03/2014",
+                "link": "http://seattleindian.org/community-services/"
+            }]
+        }]
+    }, {
+        "lat": "47.6133805",
+        "long": "-122.3284804",
+        "orgs": [{
+            "name": "Salvation Army Women's Shelter",
+            "phone_1": "206-447-9944",
+            "phone_2": null,
+            "address": "1101 Pike Street, Seattle 98101",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "Shelter for single women age 18+.",
+                "hours": null,
+                "verified": "Verified 03/2014",
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6132035",
+        "long": "-122.3417711",
+        "orgs": [{
+            "name": "Noel House Women's Referral Center ",
+            "phone_1": "206-441-3210 ",
+            "phone_2": null,
+            "address": "2030 3rd Ave., Seattle, 98121",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "Women only shelter, 18+, 40 beds, referrals to other shelters. Evening meals. Doesn't turn away women with mental/physical disabilities or addiction issues. Open registration nightly 6-8 p.m.",
+                "hours": "Everyday, register between 6 and 8 pm",
+                "verified": "Verified 03/2014",
+                "link": "http://www.ccsww.org/site/PageServer?pagename=homeless_noelhouse"
+            }]
+        }]
+    }, {
+        "lat": "47.6152862",
+        "long": "-122.3445764",
+        "orgs": [{
+            "name": "Church of Mary Magdalene / Mary's Place",
+            "phone_1": "206-621-8474 ",
+            "phone_2": null,
+            "address": "314 Bell St, Seattle, WA 98121",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "The Rotating Night Shelter accommodates fourteen people (5-6 families) from Mary’s Place, moves to 13 different faith communities, each congregation hosting one week per quarter, four weeks per year.\n\nEmergency Family Night Shelter (EFS), in partnership with the Union Gospel Mission, is an emergency night shelter for up to 48 women and children from Mary’s Place who are waiting to be referred to a longer-term night shelter. ",
+                "hours": null,
+                "verified": "Verified 03/2014",
+                "link": "http://www.marysplaceseattle.org/"
+            }]
+        }, {
+            "name": "Julia’s Place Night Shelter (operated by Mary's Place)",
+            "phone_1": "206-621-8474 ",
+            "phone_2": null,
+            "address": "314 Bell St, Seattle, WA 98121",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "Julia’s Place Night Shelter is operated by Mary's place and hosted at the Madrona Grace Church. Five intact families (men, women and children) from Mary’s Place can stay overnight while waiting for permanent housing. ",
+                "hours": null,
+                "verified": "Verified 03/2014",
+                "link": "http://www.marysplaceseattle.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.6023597",
+        "long": "-122.3179471",
+        "orgs": [{
+            "name": "YWCA",
+            "phone_1": "206-461-4888 ",
+            "phone_2": null,
+            "address": "1025 E Fir St., Seattle, WA 98122",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Shelter",
+                "description": "YWCA Emergency Shelter: The YWCA provides a safe haven for women and their children fleeing domestic violence. All women 18 years old and their children are eligible. No boys over the age of 17. Women undergo an intensive telephone screening by calling the number above to determine if this shelter will meet their needs. ",
+                "hours": null,
+                "verified": "Verified 03/2014",
+                "link": "https://www.ywcaworks.org/page.aspx?pid=395"
+            }]
+        }]
+    }, {
+        "lat": "47.6702047",
+        "long": "-122.3827146",
+        "orgs": [{
+            "name": "Urban Rest Stop",
+            "phone_1": "206-258-3626",
+            "phone_2": null,
+            "address": "2014-B NW 57th St., Seattle, WA 98145",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Free showers and laundry facilities for homeless and low income. Will lend coveralls for patrons who have nothing to wear while doing laundry.\n\nFree hygiene supplies such as soap, toothbrushes, diapers, feminine hygiene supplies, etc.\n\nDirections: Entrance to left of Cheryl Chow Court entrance, at 2014-B NW 57th St.",
+                "hours": "Mon-Fri 6:30 am- 2:30 pm. Closed weekends, holidays.",
+                "verified": "Verified 11/2015",
+                "link": "https://urbanreststop.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.6802132",
+        "long": "122.3283188",
+        "orgs": [{
+            "name": "Greenlake Community Center",
+            "phone_1": "206-684-0780 ",
+            "phone_2": null,
+            "address": "7201 East Greenlake Drive N., Seattle 98115",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Free showers. Enter through lobby.",
+                "hours": "Mon-Fri: 10 am - 8 pm, Sat: 9 am - 4:30 pm. Closed Sundays and holidays.",
+                "verified": "Verified 08/2014",
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6021662",
+        "long": "-122.3311207",
+        "orgs": [{
+            "name": "Connections",
+            "phone_1": "206-515-1555 ",
+            "phone_2": null,
+            "address": "505 Third Ave, Seattle 98104",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Free showers, hygiene supplies, laundry, & computer use for homeless individuals actively seeking employment & willing to sign-up for program.",
+                "hours": "Everyday: 7 am - 7 pm",
+                "verified": "Verified 1/07",
+                "link": "http://www.desc.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.6127233",
+        "long": "-122.3420627",
+        "orgs": [{
+            "name": "Angeline's Day Center",
+            "phone_1": "206-436-8650",
+            "phone_2": null,
+            "address": "2025 Third Avenue, Seattle 98121",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Showers, laundry, phone, computers, legal advice, and healthcare for women only.",
+                "hours": " Everyday: 8 am - 6 pm ",
+                "verified": "Verified 12/09",
+                "link": "http://www.ywcaworks.org/page.aspx?pid=446"
+            }]
+        }]
+    }, {
+        "lat": "47.6125091",
+        "long": "-122.3416688",
+        "orgs": [{
+            "name": "Family & Adult Service Center (FASC)",
+            "phone_1": "206-357-3160 ",
+            "phone_2": null,
+            "address": "2013 Third Ave. Seattle 98104",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": false,
+                "material": true,
+                "subcategory": "Hygiene",
+                "description": "Laundry & showers available to both men & women. Towels & soap provided. Sign-up that morning for a time slot for either service or both. ",
+                "hours": "Everyday: 11 am - 7 pm",
+                "verified": "Verified 2/08",
+                "link": "http://www.fasconline.org/"
+            }]
+        }]
+    }, {
+        "lat": "47.622888",
+        "long": "-122.322335",
+        "orgs": [{
+            "name": "Capitol Hill Branch Seattle Public Library",
+            "phone_1": "206-684-4715",
+            "phone_2": null,
+            "address": "425 Harvard Ave E, Seattle, WA 98102",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon - Thurs: 10:00 am to 8:00 pm Fri, Sat: 10:00 am to 6:00 pm Sun: 1:00 pm to 5:00 pm",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6157916",
+        "long": "-122.343359",
+        "orgs": [{
+            "name": "Belltown Community Center",
+            "phone_1": "206-684-7245",
+            "phone_2": null,
+            "address": "415 Bell St, Seattle, WA 98121",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon, Wed: 3:00 pm to 8:00 pm Tues, Thurs, Fri: 9:30 am to 2:30 pm Sat, Sun: Closed",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6066004",
+        "long": "-122.3329838",
+        "orgs": [{
+            "name": "Central Branch Seattle Public Library",
+            "phone_1": "206-386-4636",
+            "phone_2": null,
+            "address": "1000 4th Ave, Seattle, WA 98104",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon - Thurs: 10:00 am to 8:00 pm Fri, Sat: 10:00 am to 6:00 pm Sun: noon to 6:00 pm",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6014266",
+        "long": "-122.3202676",
+        "orgs": [{
+            "name": "Yesler Computer Lab",
+            "phone_1": "206-615-1579",
+            "phone_2": null,
+            "address": "917 E Yesler Way, Seattle, WA 98122",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Tues, Thurs: 10:00 am to noon",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.5961387",
+        "long": "-122.3224661",
+        "orgs": [{
+            "name": "International District/Chinatown Community Center",
+            "phone_1": "206-233-0042",
+            "phone_2": null,
+            "address": "718 8th Ave S, Seattle, WA 98104",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon, Fri: 11:00 am to 9:00 pm Tues: 3:00 pm to 6:00 pm Wed: Noon to 9:00 pm Thurs: 9:00 am to noon Sat, Sun: Closed",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.5962327",
+        "long": "-122.3227843",
+        "orgs": [{
+            "name": "International District/Chinatown Branch Seattle Public Library",
+            "phone_1": "206-386-1300",
+            "phone_2": null,
+            "address": "713 8th Ave S, Seattle, WA 98104",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon, Tues: 1:00 pm to 8:00 pm Wed, Thurs, Sat: 11:00 am to 6:00 pm Sun: 1:00 pm to 5:00 pm Fri: Closed",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6019757",
+        "long": "-122.3017764",
+        "orgs": [{
+            "name": "Douglass-Truth Branch Seattle Public Library",
+            "phone_1": "206-684-4704",
+            "phone_2": null,
+            "address": "2300 E Yesler Way, Seattle, WA 98122",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon - Thurs: 10:00 am to 8:00 pm Fri, Sat: 10:00 am to 6:00 pm Sun: 1:00 pm to 5:00 pm",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.5984936",
+        "long": "-122.301533",
+        "orgs": [{
+            "name": "Central Neighborhood Service Center",
+            "phone_1": "206-684-4767",
+            "phone_2": null,
+            "address": "2301 S Jackson St Suite. 200, Seattle, WA 98144",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon - Fri: 9:00 am to 7:00 pm Sat: 9:00 am to 5:00 pm",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6217168",
+        "long": "-122.3069292",
+        "orgs": [{
+            "name": "Miller Community Center",
+            "phone_1": "206-684-4753",
+            "phone_2": null,
+            "address": "330 19th Ave E, Seattle, WA 98112",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon - Fri: 4:00 pm to 9:00 pm Tues: 9:30 am to 12:30 pm, 4:00 pm to 9:00 pm Sat, Sun: Closed",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6500597",
+        "long": "-122.348423",
+        "orgs": [{
+            "name": "Fremont Branch Seattle Public Library",
+            "phone_1": "206-684-4084",
+            "phone_2": null,
+            "address": "731 N 35th St, Seattle, WA 98103",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon, Tues: 1:00 pm to 8:00 pm Wed, Thurs, Sat: 11:00 am to 6:00 pm Sun: 1:00 pm to 5:00 pm Fri: Closed",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.662339",
+        "long": "-122.3126518",
+        "orgs": [{
+            "name": "University District Neighborhood Service Center",
+            "phone_1": "206-684-0896",
+            "phone_2": null,
+            "address": "4534 University Way NE, Seattle, WA 98105",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Monday to Friday 10 AM to 6 PM; Saturday 10 AM to 2 PM",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6652442",
+        "long": "-122.3178828",
+        "orgs": [{
+            "name": "University Branch Seattle Public Library",
+            "phone_1": "206-684-4063",
+            "phone_2": null,
+            "address": "5009 Roosevelt Way NE, Seattle, WA 98105",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon, Tues: 1:00 pm to 8:00 pm Wed, Thurs, Sat: 11:00 am to 6:00 pm Sun: 1:00 pm to 5:00 pm Fri: Closed",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }, {
+        "lat": "47.6612434",
+        "long": "-122.3389244",
+        "orgs": [{
+            "name": "Wallingford Branch Seattle Public Library",
+            "phone_1": "206-684-4088",
+            "phone_2": null,
+            "address": "1501 N 45th St, Seattle, WA 98103",
+            "services": [{
+                "health": false,
+                "human": false,
+                "tech": true,
+                "material": false,
+                "subcategory": "Computer/Internet",
+                "description": "",
+                "hours": "Mon, Tues: 1:00 pm to 8:00 pm Wed, Thurs, Sat: 11:00 am to 6:00 pm Sun: 1:00 pm to 5:00 pm Fri: Closed",
+                "verified": null,
+                "link": null
+            }]
+        }]
+    }]
+}
