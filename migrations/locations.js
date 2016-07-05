@@ -1,11 +1,11 @@
-exports.up = function(knex, Promise) {
-  knex.schema.createTable('coordinates', function(table) {
-    table.increments('id');
+exports.up = (knex, Promise) => {
+  return knex.schema.createTable('locdata', table => {
+    table.increments();
     table.float('lat');
     table.float('long');
   });
-}
+};
 
-exports.down = function(knex, Promsise) {
-  knex.schema.dropTable('coordinates');
-}
+exports.down = (knex, Promise) => {
+  return knex.schema.dropTable('locdata');
+};
