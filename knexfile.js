@@ -1,5 +1,8 @@
-module.exports = {
+const dotenv = require('dotenv');
 
+dotenv.load();
+
+module.exports = {
   development: {
     client: 'pg',
     connection: 'postgres://localhost/scr'
