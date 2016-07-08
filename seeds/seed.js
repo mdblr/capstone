@@ -1,7 +1,9 @@
 'use strict';
-
+const dotenv = require('dotenv');
 const data = require('./orgs_services.json');
 const locations = data.data;
+
+dotenv.load();
 
 exports.seed = (knex, Promise) => {
   return knex('locdata').del()
@@ -42,6 +44,7 @@ exports.seed = (knex, Promise) => {
                             health: service.health,
                             human: service.human,
                             material: service.material,
+                            technology: service.tech,
                             subcategory: service.subcategory,
                             description: service.description,
                             hours: service.hours,
