@@ -1,7 +1,5 @@
 # SCRL Database
 
-ERD coming soon!
-
 #### Related Repos  
 
 [Backend](https://github.com/mdblr/scrl-backend)  
